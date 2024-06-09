@@ -1,0 +1,7 @@
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\bin\Debug\HW_Polimorphism.exe.config
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\bin\Debug\HW_Polimorphism.exe
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\bin\Debug\HW_Polimorphism.pdb
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\obj\Debug\HW_Polimorphism.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\obj\Debug\HW_Polimorphism.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\obj\Debug\HW_Polimorphism.exe
+C:\Users\Artem\source\repos\PV_311_net\HW_Polimorphism\obj\Debug\HW_Polimorphism.pdb
